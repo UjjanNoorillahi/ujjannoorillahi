@@ -1,8 +1,8 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Noor Illahi</h1>
-<h3 align="center">A passionate Mobile Application Developer</h3>
-<img align="right" alt="Coding" width="500" src="profile_img.jpg" style="max-width: 100%;border-radius: 20px;">
+<h3 align="center">A Passionate Mobile Application Developer</h3>
 
+<img align="right" alt="Coding" width="400" src="profile_img.jpg" style="max-width: 100%;border-radius: 20px;">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjannoorillahi&label=Profile%20views&color=0e75b6&style=flat" alt="ujjannoorillahi" /> </p>
@@ -23,7 +23,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.to ujjannoorillahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to ujjannoorillahi" height="30" width="40" /></a>
 <a href="https://twitter.com/ujjannoorillahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ujjannoorillahi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ujjannoorillahi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ujjannoorillahi" height="30" width="40" /></a>
 <a href="https://fb.com/noorillahi.ujjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="noorillahi.ujjan" height="30" width="40" /></a>
