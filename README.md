@@ -1,11 +1,14 @@
 # Hi, I'm Noor Illahi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-# replace contents according to you.
+
 <table>
 <tr>
   <td valign="center">
     🎓 I am currently pursuing my **Bachelor's in Computer Science**.
+    
     🌱 I am currently learning **Flutter** and also interested in **Machine Learning**.
+    
     🎯 My Goal is to Contribute to as many **open source project** as possible.
+    
     ✨ I love to create different types of **contents**.
 <td >
 # this is my daily.dev card, you can edit this accordingly
