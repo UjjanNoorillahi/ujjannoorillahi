@@ -1,7 +1,8 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Noor Illahi</h1>
 <h3 align="center">A passionate Mobile Application Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1nbdZLhBkMo2b2FzKajQvixT8G4_vuxGb/view?usp=sharing">
+<img align="right" alt="Coding" width="500" src="profile_img.jpg" style="max-width: 100%;border-radius: 20px;">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjannoorillahi&label=Profile%20views&color=0e75b6&style=flat" alt="ujjannoorillahi" /> </p>
