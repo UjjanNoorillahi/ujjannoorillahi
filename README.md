@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **NAS_BizTech Mobile App**
 
-- 🌱 I’m currently learning **Flutter (Anroid & iOS)**
+- 🌱 I’m currently learning **Flutter (Android & iOS)**
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
