@@ -11,7 +11,6 @@
     
     ✨ I love to create different types of **contents**.
 <td >
-# this is my daily.dev card, you can edit this accordingly
     <a href="https://app.daily.dev/ujjannoorillahi"><img src="https://api.daily.dev/devcards/6aac2b0afe6f4a07b859335bb359896a.png?r=2jd" width="400" alt="Noor Illahi's Dev Card"/></a>
   </td>
 </tr>
