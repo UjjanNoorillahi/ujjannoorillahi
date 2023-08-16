@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **LifeDox AI Flutter APP**
 
-- 🌱 I’m currently learning **Flutter (Android & iOS)**
+- 🌱 I’m currently learning **Flutter Backend**
 
 - 👯 I’m looking to collaborate on **Flutter Projects**
 
