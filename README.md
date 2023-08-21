@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **ujjannoorillahi@gmail.com**
 
-- ⚡ Fun fact **I love to run in the morning (it helps to release endorphins in the brai
+- ⚡ Fun fact **I love to run in the morning (it helps to release endorphins in the brain)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
