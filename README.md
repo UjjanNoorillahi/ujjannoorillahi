@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Flutter Backend**
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on **Flutter Project
 
 - 💬 Ask me about **Mobile Application Development, AI/ML, IoT**
 
