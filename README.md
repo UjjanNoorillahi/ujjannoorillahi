@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Mobile Application Development, AI/ML, IoT**
 
-- 📫 How to reach me **ujjannoorillahi@gmail.co
+- 📫 How to reach me **ujjannoorillahi@gmail.com**
 
 - ⚡ Fun fact **I love to run in the morning (it helps to release endorphins in the brain)**
 
