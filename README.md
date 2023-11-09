@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/ujjannoorillahi" target="blank"><img src="https://img.shields.io/twitter/follow/ujjannoorillahi?logo=twitter&style=for-the-badge" alt="ujjannoorillahi" /></a> </p>
 
-- 🔭 I’m currently working on **LifeDox AI Flutter App**
+- 🔭 I’m currently working on **H2O iOS App**
 
-- 🌱 I’m currently learning **Flutter Backend**
+- 🌱 I’m currently learning **iOS Mobile App Development**
 
-- 👯 I’m looking to collaborate on **Flutter Projects**
+- 👯 I’m looking to collaborate on **Flutter & iOS Projects**
 
-- 💬 Ask me about **Mobile Application Development, AI/ML, IoT**
+- 💬 Ask me about **Mobile Application Development, Generative AI**
 
 - 📫 How to reach me **ujjannoorillahi@gmail.com**
 
