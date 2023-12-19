@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **H2O iOS App**
 
-- 🌱 I’m currently learning **iOS Mobile App Development
+- 🌱 I’m currently learning **iOS Mobile App Development**
 
 - 👯 I’m looking to collaborate on **Flutter & iOS Projects**
 
