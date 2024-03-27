@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/ujjannoorillahi" target="blank"><img src="https://img.shields.io/twitter/follow/ujjannoorillahi?logo=twitter&style=for-the-badge" alt="ujjannoorillahi" /></a> </p>
 
-- 🔭 I’m currently working on **StoriedLife AI App**
+- 🔭 I’m currently working on **StoriedLife AI App
 
 - 🌱 I’m currently learning **iOS Mobile App Development**
 
