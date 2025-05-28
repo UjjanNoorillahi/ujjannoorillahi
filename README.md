@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center"> Hi, I'm Noor Illahi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 
-<h3 align="center">A Passionate Mobile Application Developer</h3>
+<h3 align="center">A Passionate Mobile Application  Developer</h3>
 <a href="https://app.daily.dev/ujjannoorillahi"><img src="https://api.daily.dev/devcards/6aac2b0afe6f4a07b859335bb359896a.png?r=2jd" align="right" width="350" alt="Noor Illahi's Dev Card"/></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ujjannoorillahi&label=Profile%20views&color=0e75b6&style=flat" alt="ujjannoorillahi" /> </p>
 
